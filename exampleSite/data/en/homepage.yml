@@ -3,35 +3,32 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: Community Matters
+    content: We at Ciria are all about empowering communites through our extensive
+      research.
     animation_in: left
     animation_out: right
     button:
       enable: true
-      label: Apply now
+      label: Learn More
       link: contact
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: A bright future is our mission
+    content: With enough resources, we aim to better assist with issues in different
+      areas of the world. How can you help?
     animation_in: left
     animation_out: right
     button:
       enable: true
-      label: Apply now
+      label: Donate
       link: contact
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: Together we achieve more
+    content: We are firm believers that more hands help build a society so we are
+      looking for more people looking to make a change.
     animation_in: left
     animation_out: right
     button:
       enable: true
-      label: Apply now
+      label: Volunteer
       link: contact
 banner_feature:
   enable: true
