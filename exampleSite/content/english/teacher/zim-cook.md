@@ -7,6 +7,11 @@ course: ''
 bio: ''
 interest: []
 contact: []
+menu:
+  main:
+    name: vision
+    weight: 2
+    parent: Pages
 
 ---
 ### Our Vision
