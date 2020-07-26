@@ -53,7 +53,7 @@ name = "scholarship"
 parent = "Pages"
 [[menu.main]]
 URL = "research/our-mission"
-name = "our-mission"
+name = "research"
 parent = "Pages"
 [[menu.main]]
 URL = "blog"
