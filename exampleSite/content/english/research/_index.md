@@ -1,8 +1,11 @@
 ---
-title: "Our Courses"
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+title: Our Mission
+bg_image: images/backgrounds/page-title.jpg
+description: Here is what we stand for
+
 ---
+### Our Mission
+
+We mission is to mobilize and engage with the whole community, and work together to “make our world a better place”, one community at a time. 
+
+CIRIA is to build a research knowledge base (“a light-house”) and bridge in any focus community, provide high quality research and innovation products and services, in collaboration with its partners, collaborators, co-operators, allies, and networks, to major problems and mitigate challenges existing in the target community relating to socio-economic, health and wellness, environmental and cultural issues.
