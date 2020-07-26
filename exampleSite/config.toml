@@ -1,10 +1,10 @@
 baseURL = "https://ciria-test.netlify.app"
 disableLanguages = []
-disqusShortname = "educenter"
+disqusShortname = "ciria"
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
-title = "Educenter | hugo education template"
+title = "Ciria NGO"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
