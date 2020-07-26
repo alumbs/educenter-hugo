@@ -3,7 +3,7 @@ bg_image = "/images/blog/post-3.jpg"
 date = 2020-07-25T05:00:00Z
 description = "“Make our world a better place”, one community at a time"
 image = ""
-title = "Our Mission"
+title = "Our Mission Single Page"
 
 +++
 ### Our Mission
