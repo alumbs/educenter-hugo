@@ -8,6 +8,6 @@ menu:
   main:
     name: Causes
     URL: course
-    weight: 3
+    weight: 2
 
 ---

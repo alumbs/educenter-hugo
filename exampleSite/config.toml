@@ -40,10 +40,6 @@ URL = "teacher"
 name = "teacher"
 weight = 5
 [[menu.main]]
-name = "Home"
-url = "https://ciria-test.netlify.app/"
-weight = 1
-[[menu.main]]
 URL = "research"
 name = "research"
 parent = "Pages"
@@ -71,19 +67,19 @@ weight = 5
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 6
+weight = 5
 [[menu.main]]
 URL = "blog"
 name = "blog"
-weight = 5
+weight = 4
 [[menu.main]]
 hasChildren = true
 name = "Pages"
-weight = 4
+weight = 3
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 2
+weight = 1
 [params]
 address = "9567 Turner Trace Apt. BC C3G8A4"
 author = "Themefisher"
