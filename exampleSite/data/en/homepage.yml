@@ -35,16 +35,16 @@ banner_feature:
   image: images/banner/banner-feature.png
   feature_item:
   - name: Become a Volunteer
-    icon: ti-book
+    icon: ti-user
     content: ''
   - name: Donate
-    icon: ti-blackboard
+    icon: ti-money
     content: ''
   - name: Organize a Fundraiser
     icon: ti-agenda
     content: ''
   - name: Share your cause
-    icon: ti-write
+    icon: ti-email
     content: ''
 about:
   enable: true
