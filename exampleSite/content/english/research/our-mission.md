@@ -4,6 +4,10 @@ date = 2020-07-25T05:00:00Z
 description = "“Make our world a better place”, one community at a time"
 image = "/images/courses/course-single.jpg"
 title = "Our Mission Single Page"
+[menu.main]
+name = "mission"
+parent = "Pages"
+weight = 1
 
 +++
 ### Our Mission
