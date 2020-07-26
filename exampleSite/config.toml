@@ -52,7 +52,7 @@ URL = "scholarship"
 name = "scholarship"
 parent = "Pages"
 [[menu.main]]
-URL = "research/our-mission"
+URL = "research"
 name = "research"
 parent = "Pages"
 [[menu.main]]
