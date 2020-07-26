@@ -1,6 +1,13 @@
 ---
-title: Our Causes
+title: Our Courses
 bg_image: images/backgrounds/page-title.jpg
-description: These are a few of the major causes we are extremely passionate about
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
+  nostrud.
+menu:
+  main:
+    name: Causes
+    URL: course
+    weight: 2
 
 ---

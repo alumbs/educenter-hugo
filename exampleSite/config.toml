@@ -32,11 +32,6 @@ URL = "notice"
 name = "volunteer"
 weight = 4
 [[menu.main]]
-URL = "research"
-name = "research"
-parent = "Pages"
-weight = 1
-[[menu.main]]
 URL = "teacher"
 name = "teacher"
 parent = "Pages"
