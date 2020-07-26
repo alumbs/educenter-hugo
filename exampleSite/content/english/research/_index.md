@@ -2,6 +2,11 @@
 title: Our Mission
 bg_image: images/backgrounds/page-title.jpg
 description: "“Make our world a better place”, one community at a time"
+menu:
+  main:
+    parent: Pages
+    URL: research
+    weight: 1
 
 ---
 ### Our Mission
