@@ -32,7 +32,7 @@ slider:
       link: contact
 banner_feature:
   enable: true
-  image: images/banner/banner-feature.png
+  image: images/kat-yukawa-k0e6e0a0r3a-unsplash.jpg
   feature_item:
   - name: Become a Volunteer
     icon: ti-user
@@ -48,15 +48,15 @@ banner_feature:
     content: ''
 about:
   enable: true
-  title: About Educenter
+  title: About Ciria
   image: images/about/about-us.jpg
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat  pariatur. Excepteur sint occaecat\n\ncupidatat non proident, sunt in culpa
-    qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis
-    iste natus error sit voluptatem "
+  content: CIRIA is a nonprofit International development organization was founded
+    2009 to serve as a consortium and consultancy, engaging in both quantitative and
+    qualitative research and innovation, in alliance with individuals, families, businesses,
+    institutions, governments, communities, interest groups and others who share its
+    passion and drive to produce and deliver economically viable and sustainable solutions
+    to community problems- such as poverty, women and youths empowerment, unemployment,
+    gender equality & social inclusion in sub-Sahara Africa.
   button:
     enable: true
     label: Learn more
