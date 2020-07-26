@@ -1,5 +1,5 @@
 baseURL = "https://ciria-test.netlify.app"
-disableLanguages = ["fr"]
+disableLanguages = []
 disqusShortname = "ciria"
 paginate = "6"
 summaryLength = "10"
