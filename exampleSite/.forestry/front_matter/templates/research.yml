@@ -23,3 +23,5 @@ fields:
   name: type
   label: type
   default: research
+pages:
+- exampleSite/content/english/research/our-mission.md
