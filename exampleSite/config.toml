@@ -1,4 +1,4 @@
-baseURL = "https://ciria-test.netlify.com"
+baseURL = "https://ciria-test.netlify.app"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
