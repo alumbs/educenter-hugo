@@ -5,9 +5,6 @@ fields:
 - type: text
   name: title
   label: title
-- type: datetime
-  name: date
-  label: date
 - type: file
   name: bg_image
   label: bg image
@@ -20,14 +17,6 @@ fields:
   name: image
   label: image
 - type: text
-  name: duration
-  label: duration
-  description: Course Duration
-- type: text
-  name: weekly
-  label: weekly
-  description: Course time per week
-- type: text
   name: apply_url
   label: apply_url
   description: Application submit link
@@ -35,3 +24,13 @@ fields:
   name: type
   label: type
   default: course
+- name: donations_to_date
+  type: number
+  label: Donations to date
+  description: ''
+  default: 300
+  required: true
+  config:
+    min: 
+    max: 
+    step: 100
