@@ -20,14 +20,6 @@ fields:
   name: image
   label: image
 - type: text
-  name: category
-  label: category
-  description: course category
-- type: text
-  name: teacher
-  label: teacher
-  description: 'Ex: John Doe'
-- type: text
   name: duration
   label: duration
   description: Course Duration
@@ -35,10 +27,6 @@ fields:
   name: weekly
   label: weekly
   description: Course time per week
-- type: text
-  name: fee
-  label: fee
-  description: Course fee
 - type: text
   name: apply_url
   label: apply_url
