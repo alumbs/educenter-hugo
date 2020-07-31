@@ -29,7 +29,7 @@ name = "About"
 weight = 1
 [[menu.main]]
 URL = "causes"
-name = "causes"
+name = "Causes"
 weight = 2
 [[menu.main]]
 hasChildren = true
