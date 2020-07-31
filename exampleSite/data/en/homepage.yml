@@ -75,12 +75,12 @@ cta:
 success_story:
   enable: false
   bg_image: images/backgrounds/success-story.jpg
-  title: Success Stories
+  title: Our Mission
   content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
+    We mission is to mobilize and engage with the whole community, and work together to “make our world a better place”, one community at a time.
 
-    ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-  video_link: https://www.youtube.com/watch?v=ResipmZmpDU
+    CIRIA is to build a research knowledge base (“a light-house”) and bridge in any focus community, provide high quality research and innovation products and services, in collaboration with its partners, collaborators, co-operators, allies, and networks, to major problems and mitigate challenges existing in the target community relating to socio-economic, health and wellness, environmental and cultural issues.
+  video_link: ''
 event:
   enable: false
   title: Upcoming Events
