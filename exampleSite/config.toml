@@ -28,8 +28,8 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "course"
-name = "course"
+URL = "causes"
+name = "causes"
 weight = 2
 [[menu.main]]
 hasChildren = true
