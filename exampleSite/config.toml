@@ -19,10 +19,6 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.footer]]
-URL = "research"
-name = "Mission"
-weight = 1
 [[menu.main]]
 URL = "cause"
 name = "Causes"
