@@ -4,10 +4,6 @@ date = 2020-07-25T05:00:00Z
 description = "“Make our world a better place”, one community at a time"
 image = "/images/causes/cause-single.jpg"
 title = "Our Mission"
-[menu.main]
-name = "mission"
-parent = "Pages"
-weight = 1
 
 +++
 ### Our Mission
