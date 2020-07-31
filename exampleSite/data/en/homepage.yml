@@ -37,15 +37,31 @@ banner_feature:
   - name: Become a Volunteer
     icon: ti-user
     content: Join us in making the world a better place.
+    button:
+      enable: true
+      label: Volunteer
+      link: contact
   - name: Donate
     icon: ti-money
-    content: Help us fund our continuous research efforts.
+    content: Help to fund our research efforts.
+    button:
+      enable: true
+      label: Donate
+      link: contact
   - name: Organize a Fundraiser
     icon: ti-agenda
-    content: Organize an event that supports any of our causes.
+    content: Organize an event to support a cause.
+    button:
+      enable: true
+      label: Fundraise
+      link: contact
   - name: Share your cause
     icon: ti-email
     content: Share a cause close to your heart.
+    button:
+      enable: true
+      label: Share a Cause
+      link: contact
 about:
   enable: true
   title: About Ciria
