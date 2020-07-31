@@ -20,10 +20,6 @@ fields:
   name: apply_url
   label: apply_url
   description: Application submit link
-- type: text
-  name: type
-  label: type
-  default: course
 - name: donations_to_date
   type: number
   label: Donations to date
