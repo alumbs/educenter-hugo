@@ -24,45 +24,17 @@ URL = "research"
 name = "Mission"
 weight = 1
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.main]]
 URL = "cause"
 name = "Causes"
-weight = 2
-[[menu.main]]
-hasChildren = true
-name = "Pages"
 weight = 3
-[[menu.main]]
-URL = "teacher"
-name = "teacher"
-parent = "Pages"
-[[menu.main]]
-URL = "notice"
-name = "notice"
-parent = "Pages"
-[[menu.main]]
-URL = "event"
-name = "event"
-parent = "Pages"
-[[menu.main]]
-URL = "scholarship"
-name = "scholarship"
-parent = "Pages"
-[[menu.main]]
-URL = "research"
-name = "research"
-parent = "Pages"
-[[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 4
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 5
+weight = 4
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
 [params]
 address = "9567 Turner Trace Apt. BC C3G8A4"
 author = "Themefisher"
