@@ -37,21 +37,21 @@ sections:
   templates:
   - author
 - type: heading
-  label: Course
+  label: Cause
 - type: directory
-  path: exampleSite/content/english/course
-  label: Course (en)
+  path: exampleSite/content/english/cause
+  label: Cause (en)
   create: documents
   match: "**/*"
   templates:
-  - course
+  - cause
 - type: directory
-  path: exampleSite/content/french/course
-  label: Course (fr)
+  path: exampleSite/content/french/cause
+  label: Cause (fr)
   create: documents
   match: "**/*"
   templates:
-  - course
+  - cause
 - type: heading
   label: Notice
 - type: directory

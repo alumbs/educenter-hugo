@@ -61,7 +61,7 @@ about:
     enable: true
     label: Learn more
     link: about
-course:
+cause:
   enable: true
   title: Our Causes
 cta:

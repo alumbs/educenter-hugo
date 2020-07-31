@@ -9,7 +9,7 @@
       </div>
       <div class="col-md-6 mb-5">
         <h3>{{ .Title }}</h3>
-        <h6 class="text-color">{{ .Params.Course }}</h6>
+        <h6 class="text-color">{{ .Params.Cause }}</h6>
         <p class="mb-5">{{ .Params.Bio | markdownify }}</p>
         <div class="row">
           <div class="col-md-6 mb-5 mb-md-0">
@@ -37,12 +37,12 @@
 
     <div class="row">
       <div class="col-12">
-        <h4 class="mb-4">{{ i18n "courses" | upper}}</h4>
+        <h4 class="mb-4">{{ i18n "causes" | upper}}</h4>
       </div>
-      <!-- course item -->
+      <!-- cause item -->
       {{ range where site.RegularPages "Params.teacher" .Title }}
       <div class="col-lg-4 col-sm-6 mb-5">
-        {{ .Render "course"}}
+        {{ .Render "cause"}}
       </div>
       {{ end }}
     </div>

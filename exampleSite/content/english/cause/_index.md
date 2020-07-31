@@ -5,7 +5,7 @@ description: ''
 menu:
   main:
     name: Causes
-    URL: course
+    URL: cause
     weight: 2
 
 ---

@@ -18,9 +18,9 @@ fields:
   label: image
   description: portrait
 - type: text
-  name: course
-  label: course
-  description: course taken by him
+  name: cause
+  label: cause
+  description: cause taken by him
 - type: textarea
   name: bio
   label: bio

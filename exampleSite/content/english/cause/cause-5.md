@@ -5,7 +5,7 @@ bg_image: images/backgrounds/page-title.jpg
 description: To meet research and innovation needs of the community that will improve
   the socio-economic, political, and cultural well-being of organizations, individuals
   and families
-image: images/courses/course-5.jpg
+image: images/causes/cause-5.jpg
 category: Programming
 teacher: Zim Cook
 duration: 06 Month

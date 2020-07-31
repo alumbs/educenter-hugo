@@ -42,9 +42,9 @@ Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) 
 
 ## Demo
 
-| About  | Course  | Notice  | Scholarship  |
+| About  | Cause  | Notice  | Scholarship  |
 |---|---|---|---|
-| ![About page](https://user-images.githubusercontent.com/58769763/72678220-25331480-3ace-11ea-98fd-a1be7d839a62.png) | ![Course page](https://user-images.githubusercontent.com/58769763/72678219-25331480-3ace-11ea-84a1-679144fe3997.png) | ![Notice page](https://user-images.githubusercontent.com/58769763/72678221-25cbab00-3ace-11ea-820d-83fe7ee5daa8.png) | ![Scholarship page](https://user-images.githubusercontent.com/58769763/72678218-249a7e00-3ace-11ea-94a8-d8ccf1f1a9ee.png)
+| ![About page](https://user-images.githubusercontent.com/58769763/72678220-25331480-3ace-11ea-98fd-a1be7d839a62.png) | ![Cause page](https://user-images.githubusercontent.com/58769763/72678219-25331480-3ace-11ea-84a1-679144fe3997.png) | ![Notice page](https://user-images.githubusercontent.com/58769763/72678221-25cbab00-3ace-11ea-820d-83fe7ee5daa8.png) | ![Scholarship page](https://user-images.githubusercontent.com/58769763/72678218-249a7e00-3ace-11ea-94a8-d8ccf1f1a9ee.png)
 
 **The images are only for demonstration purpose, Please don't use those images.**
 

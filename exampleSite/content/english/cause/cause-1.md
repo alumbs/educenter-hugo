@@ -6,7 +6,7 @@ description: To  facilitate and promote gender equality and youth empowerment i
   maintaining standards and fundamental principles and rights at workplace, create
   opportunities for women and youths to secure decent employment and income, enhance
   the coverage and effectiveness of social protection for all.
-image: images/courses/course-1.jpg
+image: images/causes/cause-1.jpg
 category: Causes
 teacher: ''
 duration: 06 Month

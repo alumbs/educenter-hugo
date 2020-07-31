@@ -28,7 +28,7 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "causes"
+URL = "cause"
 name = "Causes"
 weight = 2
 [[menu.main]]

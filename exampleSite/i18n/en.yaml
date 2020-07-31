@@ -31,8 +31,8 @@
   translation: Date
 - id: time
   translation: time
-- id: related_course
-  translation: Related Course
+- id: related_cause
+  translation: Related Cause
 - id: location
   translation: location
 - id: entry_fee
@@ -49,8 +49,8 @@
   translation: company
 - id: links
   translation: links
-- id: courses
-  translation: Courses
+- id: causes
+  translation: Causes
 - id: new_notice
   translation: new notice
 - id: call

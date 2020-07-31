@@ -3,7 +3,7 @@ title: Educating Communities
 date: ''
 bg_image: images/backgrounds/page-title.jpg
 description: Educate communities using results based on research and innovation efforts
-image: images/courses/course-4.jpg
+image: images/causes/cause-4.jpg
 category: Programming
 teacher: Devid Luis
 duration: 06 Month
