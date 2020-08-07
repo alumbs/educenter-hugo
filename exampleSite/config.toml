@@ -20,6 +20,10 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
+URL = "donate"
+name = "Donate"
+weight = "2"
+[[menu.main]]
 URL = "cause"
 name = "Causes"
 weight = 3
