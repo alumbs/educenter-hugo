@@ -30,7 +30,7 @@
         {{ .Content }}
       </div>
       <!-- teacher -->
-      <div class="col-12">
+      <!-- <div class="col-12">
         <h5 class="mb-3">{{ i18n "teacher" }}</h5>
         {{ range where site.RegularPages "Title" (.Params.Teacher | title) }}
         <div class="d-flex justify-content-between align-items-center flex-wrap">
@@ -52,14 +52,14 @@
         </div>
         {{ end }}
         <div class="border-bottom border-primary mt-4"></div>
-      </div>
+      </div> -->
     </div>
   </div>
 </section>
 <!-- /section -->
 
 <!-- related cause -->
-<section class="section pt-0">
+<!-- <section class="section pt-0">
   <div class="container">
     <div class="row">
       <div class="col-12">
@@ -67,7 +67,7 @@
       </div>
     </div>
     <div class="row">
-      <!-- cause item -->
+      cause item
       {{ $related := (where site.RegularPages "Type" "cause") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) | shuffle | first 3}}
       {{ range first 3 $related }}
       <div class="col-lg-4 col-sm-6 mb-5">
@@ -76,7 +76,7 @@
       {{ end }}
     </div>
   </div>
-</section>
+</section> -->
 <!-- /related cause -->
 
 {{ end }}
