@@ -38,7 +38,7 @@ weight = 1
 [params]
 address = "Ontario, Canada"
 author = "Themefisher"
-contact_form_action = "#"
+contact_form_action = "https://formspree.io/mvownjrz"
 description = "This is meta description"
 email = "info@ciriacanada.org"
 google_analitycs_id = ""
