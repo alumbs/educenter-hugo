@@ -112,5 +112,5 @@ funfacts:
   - name: SATISFIED CLIENT
     count: "1400"
 blog:
-  enable: false
+  enable: true
   title: Latest News
