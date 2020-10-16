@@ -15,5 +15,4 @@ fields:
   label: bg image
   description: page header background image
 pages:
-- exampleSite/content/english/photos-copy.md
 - exampleSite/content/english/photos.md
