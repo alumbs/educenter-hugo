@@ -11,8 +11,14 @@ fields:
 - name: bg_image
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: bg image
   description: page header background image
+- name: pick_your_color
+  type: color
+  label: Pick your color
+  config:
+    required: false
+    color_format: Hex
 pages:
 - exampleSite/content/english/Photos/photos-page.md
