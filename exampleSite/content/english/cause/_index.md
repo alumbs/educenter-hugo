@@ -6,6 +6,6 @@ menu:
   main:
     name: Causes
     URL: cause
-    weight: 2
+    weight: 3
 
 ---
