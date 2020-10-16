@@ -1,5 +1,5 @@
 +++
-bg_image = ""
+bg_image = "/images/scholarship/scholarship.jpg"
 description = "All the organizations photos"
 title = "Photos Page"
 [menu.main]
